@@ -30,6 +30,8 @@ Usually you can find me with my nose in a book (or, more recently, in my e-book 
 
 Outside of reading, I write for myself (travelling and coffee being two big passions), I watch lots of football, occasionally movies, and update [my knowledge wiki](https://www.gianlucafiore.it/Personal-Wiki/).
 
+If you like what I do, you can support me with a [![donation](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7KA0Z)
+
 
 <!--
 **Donearm/Donearm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
