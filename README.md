@@ -10,6 +10,8 @@ I am a Python/Go programmer, Linux "expert", System Administrator, DevOps Engine
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Donearm&theme=tokyonight)
 
+<img src="vim.svg" alt="Vim Logo" width="100" height="100"/>
+
 ----
 
 ### Where you can reach me
