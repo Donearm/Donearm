@@ -2,7 +2,7 @@
 
 Lots of names for a single person! I have been self-teaching myself programming and system administration for about 20 years, with no end of the learning in sight.
 
-I am a Python/Go programmer, Linux "expert", System Administrator, DevOps Engineer and, nowadays, Technical/Content Writer. I am an enthusiast about learning new concepts, documenting them, and raising awareness of the issues our world faces.
+I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **DevOps** Engineer and, nowadays, **Technical/Content Writer**. I am an enthusiast about learning new concepts, documenting them, and raising awareness on the issues our world faces. Creating useful documentation and making it simpler to understand hard concepts is a **pleasure** for me, before being my job.
 
 ----
 
