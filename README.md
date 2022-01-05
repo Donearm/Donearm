@@ -10,7 +10,7 @@ I am a Python/Go programmer, Linux "expert", System Administrator, DevOps Engine
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Donearm&theme=tokyonight)
 
-<img src="vim.svg" alt="Vim Logo" width="100" height="100"/>
+<img src="vim.svg" alt="Vim Logo" width="100" height="100"/><img src="archlinux.svg" alt="Archlinux Logo" width="100" height="100"/><img src="python.svg" alt="Python Logo" width="100" height="100"/><img src="golang.svg" alt="Golang logo" width="100" height="100"/>
 
 ----
 
