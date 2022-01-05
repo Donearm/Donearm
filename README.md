@@ -16,6 +16,12 @@ I am a Python/Go programmer, Linux "expert", System Administrator, DevOps Engine
 
 ### Where you can reach me
 
+* [Technical/Content Writer site](https://www.fountainpencreator.com)
+* [My personal site](https://www.gianlucafiore.it)
+* [Linkedin](https://www.linkedin.com/in/gianluca-fiore-a70913b6)
+* [Instagram](https://www.instagram.com/gianlucadfiore)
+* [Email](mailto:gianlucafiore@fountainpencreator.com)
+
 ----
 
 ### What I do in my spare time
