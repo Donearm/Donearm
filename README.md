@@ -24,6 +24,13 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 
 ----
 
+### Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+----
+
 ### What I do in my spare time
 
 Usually you can find me with my nose in a book (or, more recently, in my e-book reader). I read whenever possible, with a strong passion being fantasy literature (how original for a programmer eh?), history, philosophy, mythology, languages and the classics (from Gilgamesh to Dostoevsky). The general plan being reading at least 1000 books before I die (keeping track on [Goodreads](https://www.goodreads.com/review/list/25653929-gianluca-fiore?ref=nav_mybooks)).
