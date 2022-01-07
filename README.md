@@ -26,8 +26,11 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 
 ### Latest blog posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- FPC:START -->
+<!-- FPC:END -->
+
+<!-- GF:START -->
+<!-- GF:END -->
 
 ----
 
