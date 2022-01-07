@@ -26,6 +26,7 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 
 ### Latest blog posts
 
+_Travel/Food related articles_
 <!-- FPC:START -->
 - [How to Describe Coffee](https://www.fountainpencreator.com/post/how_to_describe_coffee/)
 - [What&#39;s SEO for? What&#39;s in it for me?](https://www.fountainpencreator.com/post/what_s_seo_for_what_s_in_it_for_me/)
@@ -34,6 +35,7 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 - [Where I will travel in 2021 once the restrictions are dropped](https://www.fountainpencreator.com/project/where_i_will_travel_in_2021_once_the_restrictions_are_dropped/)
 <!-- FPC:END -->
 
+_Technical articles_
 <!-- GF:START -->
 - [Pulse 15 Review](https://www.gianlucafiore.it/blog/pulse-15-review/)
 - [Fountain Pen Creator](https://www.gianlucafiore.it/blog/fountain-pen-creator/)
