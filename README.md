@@ -35,6 +35,11 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 <!-- FPC:END -->
 
 <!-- GF:START -->
+- [Pulse 15 Review](https://www.gianlucafiore.it/blog/pulse-15-review/)
+- [Fountain Pen Creator](https://www.gianlucafiore.it/blog/fountain-pen-creator/)
+- [Cv](https://www.gianlucafiore.it/cv/)
+- [My Story](https://www.gianlucafiore.it/my-story/)
+- [How To Travel Solo](https://www.gianlucafiore.it/how-to-travel-solo/)
 <!-- GF:END -->
 
 ----
