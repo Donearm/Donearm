@@ -15,9 +15,9 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: FPC
-          feed_list: "https://www.fountainpencreator.com/index.xml#feed"
+          feed_list: "https://www.fountainpencreator.com/index.xml"
       - name: Pull in Gianlucafiore.it's posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: GF
-          feed_list: "https://www.gianlucafiore.it/index.xml#feed"
+          feed_list: "https://www.gianlucafiore.it/index.xml"
