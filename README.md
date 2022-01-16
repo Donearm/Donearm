@@ -35,7 +35,7 @@ _Travel/Food related articles_
 - [Where I will travel in 2021 once the restrictions are dropped](https://www.fountainpencreator.com/project/where_i_will_travel_in_2021_once_the_restrictions_are_dropped/)
 <!-- FPC:END -->
 
-_Technical articles_
+_Technical/personal articles_
 <!-- GF:START -->
 - [Pulse 15 Review](https://www.gianlucafiore.it/blog/pulse-15-review/)
 - [Fountain Pen Creator](https://www.gianlucafiore.it/blog/fountain-pen-creator/)
