@@ -1,8 +1,8 @@
 ### Hi there, I am Gianluca Fiore (aka Donearm, aka The Fountain Pen Creator and more)
 
-Lots of names for a single person! I have been self-teaching myself programming and system administration for about 20 years, with no end of the learning in sight.
+Lots of names for a single person! I have been involved in programming and system administration in various roles for almost 20 years.
 
-I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **DevOps** Engineer and, nowadays, **Technical/Content Writer**. I am an enthusiast about learning new concepts, documenting them, and raising awareness on the issues our world faces. Creating useful documentation and making it simpler to understand hard concepts is a **pleasure** for me, before being my job.
+I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **DevOps** Engineer and, nowadays, **Technical/Content Writer**. I am what would be once called a computer enthusiast, always learning new concepts, documenting them, and discussing the issues the I.T. world faces. Creating useful documentation and making it simpler to understand hard concepts is a **pleasure** for me, before having become my current job.
 
 ----
 
@@ -48,9 +48,9 @@ _Technical/personal articles_
 
 ### What I do in my spare time
 
-Usually you can find me with my nose in a book (or, more recently, in my e-book reader). I read whenever possible, with a strong passion being fantasy literature (how original for a programmer eh?), history, philosophy, mythology, languages and the classics (from Gilgamesh to Dostoevsky). The general plan being reading at least 1000 books before I die (keeping track on [Goodreads](https://www.goodreads.com/review/list/25653929-gianluca-fiore?ref=nav_mybooks)).
+Usually you can find me with my nose in a book (or, more recently, in my e-book reader). I read whenever possible, with a strong passion being fantasy literature (how original for a programmer eh?), history, philosophy, mythology, languages and the classics (from Gilgamesh to Infinite Jest). The final objective as a reder being reaching at least 1000 read books before I die (keeping track on [Goodreads](https://www.goodreads.com/review/list/25653929-gianluca-fiore?ref=nav_mybooks), if you're curious).
 
-Outside of reading, I write for myself (travelling and coffee being two big passions), I watch lots of football, occasionally movies, and update [my knowledge wiki](https://www.gianlucafiore.it/Personal-Wiki/).
+Outside of reading, I write for myself (travelling and coffee being two big passions) and for clients, I watch football, occasionally movies, and update [my knowledge wiki](https://www.gianlucafiore.it/Personal-Wiki/).
 
 If you like what I do, you can support me with a [donation](https://ko-fi.com/W7W7KA0Z).
 
