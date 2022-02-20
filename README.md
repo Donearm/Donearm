@@ -26,7 +26,7 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 
 ### Latest blog posts
 
-_Travel/Food related articles_
+_Travel/Food and general writing related articles_
 <!-- FPC:START -->
 - [What Does a Technical Writer do?](https://www.fountainpencreator.com/post/what_does_a_technical_writer_do/)
 - [Tuxedo Pulse 15](https://www.fountainpencreator.com/project/archwiki_tuxedo_pulse_15/)
