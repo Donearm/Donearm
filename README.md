@@ -28,11 +28,11 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 
 _Travel/Food and general writing related articles_
 <!-- FPC:START -->
+- [Zettlr](https://www.fountainpencreator.com/project/archwiki_zettlr/)
 - [What Does a Technical Writer do?](https://www.fountainpencreator.com/post/what_does_a_technical_writer_do/)
 - [Tuxedo Pulse 15](https://www.fountainpencreator.com/project/archwiki_tuxedo_pulse_15/)
 - [How to Describe Coffee](https://www.fountainpencreator.com/post/how_to_describe_coffee/)
 - [What&#39;s SEO for? What&#39;s in it for me?](https://www.fountainpencreator.com/post/what_s_seo_for_what_s_in_it_for_me/)
-- [Nespresso vs Espresso. How do they compare?](https://www.fountainpencreator.com/project/nespresso_vs_espresso_how_do_they_compare/)
 <!-- FPC:END -->
 
 _Technical/personal articles_
