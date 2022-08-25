@@ -21,3 +21,5 @@ jobs:
         with:
           comment_tag_name: GF
           feed_list: "https://www.gianlucafiore.it/index.xml"
+      - name: Keepalive Workflow
+        uses: gautamkrishnar/keepalive-workflow@1.0.9
