@@ -10,7 +10,7 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Donearm&theme=tokyonight)
 
-<img src="vim.svg" alt="Vim Logo" width="50" height="50"/><img src="archlinux.svg" alt="Archlinux Logo" width="50" height="50"/><img src="python.svg" alt="Python Logo" width="50" height="50"/><img src="golang.svg" alt="Golang logo" width="50" height="50"/><img src="lua.svg" alt="Lua logo" width="50" height="50"/><img src="markdown.svg" alt="Markdown logo" width="50" height="50"/>
+<img src="vim.svg" alt="Vim Logo" width="50" height="50"/><img src="archlinux.svg" alt="Archlinux Logo" width="50" height="50"/><img src="python.svg" alt="Python Logo" width="50" height="50"/><img src="golang.svg" alt="Golang logo" width="50" height="50"/><img src="lua.svg" alt="Lua logo" width="50" height="50"/> <img src="markdown.svg" alt="Markdown logo" width="50" height="50"/>
 
 ----
 
