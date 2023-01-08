@@ -35,7 +35,7 @@ _Travel/Food and general writing related articles_
 
 _Technical/personal articles_
 <!-- GF:START -->
-- [On Pelé](https://www.gianlucafiore.it/blog/onpele/)
+- [On Pelé](https://www.gianlucafiore.it/blog/on_pele/)
 - [Cv](https://www.gianlucafiore.it/cv/)
 - [Most Meetings Are Useless](https://www.gianlucafiore.it/blog/most-meetings-are-useless/)
 - [HCA Florida](https://www.gianlucafiore.it/hca-florida/)
