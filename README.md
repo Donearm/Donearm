@@ -8,8 +8,6 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 
 ### Toolbox and Technologies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Donearm&theme=tokyonight)
-
 <img src="vim.svg" alt="Vim Logo" width="50" height="50"/><img src="archlinux.svg" alt="Archlinux Logo" width="50" height="50"/><img src="python.svg" alt="Python Logo" width="50" height="50"/><img src="golang.svg" alt="Golang logo" width="50" height="50"/><img src="lua.svg" alt="Lua logo" width="50" height="50"/> <img src="markdown.svg" alt="Markdown logo" width="50" height="50"/> <img src="asciidoctor.svg" alt="Asciidoctor logo" width="50" height="50"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donearm&layout=compact&langs_count=10)](https://github.com/donearm)
@@ -39,11 +37,11 @@ _Travel/Food and general writing related articles_
 
 _Technical/personal articles_
 <!-- GF:START -->
+- [On Pelé](https://www.gianlucafiore.it/blog/on_pele/)
+- [Cv](https://www.gianlucafiore.it/cv/)
 - [Most Meetings Are Useless](https://www.gianlucafiore.it/blog/most-meetings-are-useless/)
 - [HCA Florida](https://www.gianlucafiore.it/hca-florida/)
 - [Pulse 15 update after one year](https://www.gianlucafiore.it/blog/pulse-15-update-after-one-year/)
-- [Pulse 15 Review](https://www.gianlucafiore.it/blog/pulse-15-review/)
-- [Fountain Pen Creator](https://www.gianlucafiore.it/blog/fountain-pen-creator/)
 <!-- GF:END -->
 
 ----
