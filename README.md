@@ -12,6 +12,8 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 
 <img src="vim.svg" alt="Vim Logo" width="50" height="50"/><img src="archlinux.svg" alt="Archlinux Logo" width="50" height="50"/><img src="python.svg" alt="Python Logo" width="50" height="50"/><img src="golang.svg" alt="Golang logo" width="50" height="50"/><img src="lua.svg" alt="Lua logo" width="50" height="50"/> <img src="markdown.svg" alt="Markdown logo" width="50" height="50"/> <img src="asciidoctor.svg" alt="Asciidoctor logo" width="50" height="50"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donearm&layout=compact&langs_count=10)](https://github.com/donearm)
+
 ----
 
 ### Where you can reach me
