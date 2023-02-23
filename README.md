@@ -54,10 +54,6 @@ Outside of reading, I write for myself (travelling and coffee being two big pass
 
 If you like what I do, you can support me with a [donation](https://ko-fi.com/W7W7KA0Z).
 
-#### Currently reading
-
-<a href="https://www.goodreads.com/author/show/19742415.Gianluca_Fiore"><img src="https://goodreads-readme-coral.vercel.app/" alt="GoodReads reading" width="350" /></a>
-
 <!--
 **Donearm/Donearm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
