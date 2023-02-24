@@ -8,6 +8,8 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 
 ### Languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donearm&layout=compact&langs_count=10)](https://github.com/donearm)
+
 ![C](icons/C.svg)
 ![CSS3](icons/CSS3.svg)
 ![Go](icons/GO.svg)
@@ -18,8 +20,6 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 ![Markdown](icons/MARKDOWN.svg)
 ![Python](icons/PYTHON.svg)
 ![Shell](icons/SHELLSCRIPT.svg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donearm&layout=compact&langs_count=10)](https://github.com/donearm)
 
 ### Technologies
 
