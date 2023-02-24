@@ -6,10 +6,6 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 
 ----
 
-### Toolbox and Technologies
-
-<img src="vim.svg" alt="Vim Logo" width="50" height="50"/><img src="archlinux.svg" alt="Archlinux Logo" width="50" height="50"/><img src="python.svg" alt="Python Logo" width="50" height="50"/><img src="golang.svg" alt="Golang logo" width="50" height="50"/><img src="lua.svg" alt="Lua logo" width="50" height="50"/> <img src="markdown.svg" alt="Markdown logo" width="50" height="50"/> <img src="asciidoctor.svg" alt="Asciidoctor logo" width="50" height="50"/>
-
 ### Languages
 
 ![C](icons/C.svg)
