@@ -17,13 +17,13 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 ![Lua](icons/LUA.svg)
 ![Markdown](icons/MARKDOWN.svg)
 ![Python](icons/PYTHON.svg)
-![Shell]('icons/SHELL SCRIPT.svg')
+![Shell](icons/SHELLSCRIPT.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donearm&layout=compact&langs_count=10)](https://github.com/donearm)
 
 ### Technologies
 
-![Archlinux]('icons/ARCH LINUX.svg')
+![Archlinux](icons/ARCHLINUX.svg)
 ![Bootstrap](icons/BOOTSTRAP.svg)
 ![Docker](icons/DOCKER.svg)
 ![Git](icons/GIT.svg)
@@ -43,7 +43,7 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 ![Jira](icons/JIRA.svg)
 ![Trello](icons/TRELLO.svg)
 ![Vim](icons/VIM.svg)
-![Visual Studio Code]('icons/VISUAL STUDIO CODE.svg')
+![Visual Studio Code](icons/VISUALSTUDIOCODE.svg)
 
 _SVGs from [markdown-badges](https://ileriayo.github.io/markdown-badges/)_
 
