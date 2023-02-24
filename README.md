@@ -49,6 +49,8 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 ![Vim](icons/VIM.svg)
 ![Visual Studio Code](icons/VISUAL\ STUDIO\ CODE.svg)
 
+_SVGs from [markdown-badges](https://ileriayo.github.io/markdown-badges/)_
+
 ----
 
 ### Where you can reach me
