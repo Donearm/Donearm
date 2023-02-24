@@ -10,7 +10,44 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 
 <img src="vim.svg" alt="Vim Logo" width="50" height="50"/><img src="archlinux.svg" alt="Archlinux Logo" width="50" height="50"/><img src="python.svg" alt="Python Logo" width="50" height="50"/><img src="golang.svg" alt="Golang logo" width="50" height="50"/><img src="lua.svg" alt="Lua logo" width="50" height="50"/> <img src="markdown.svg" alt="Markdown logo" width="50" height="50"/> <img src="asciidoctor.svg" alt="Asciidoctor logo" width="50" height="50"/>
 
+### Languages
+
+[![C](C.svg)]
+[![CSS3](CSS3.svg)]
+[![Go](GO.svg)]
+[![HTML5](HTML5.svg)]
+[![Javascript](JAVASCRIPT.svg)]
+[![Latex](LATEX.svg)]
+[![Lua](LUA.svg)]
+[![Markdown](MARKDOWN.svg)]
+[![Python](PYTHON.svg)]
+[![Shell](SHELL SCRIPT.svg)]
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donearm&layout=compact&langs_count=10)](https://github.com/donearm)
+
+### Technologies
+
+[![Archlinux](ARCH LINUX.svg)]
+[![Bootstrap](BOOTSTRAP.svg)]
+[![Docker](DOCKER.svg)]
+[![Git](Git.svg)]
+[![jQuery](JQUERY.svg)]
+[![Linux](LINUX.svg)]
+[![RaspberryPi](RASPBERRYPI.svg)]
+[![Slackware](SLACKWARE.svg)]
+
+### Toolbox
+
+[![Canva](CANVA.svg)]
+[![Confluence](CONFLUENCE.svg)]
+[![Emacs](EMACS.svg)]
+[![Gimp](GIMP.svg)]
+[![Hugo](HUGO.svg)]
+[![Jinja](JINJA.svg)]
+[![Jira](JIRA.svg)]
+[![Trello](TRELLO.svg)]
+[![Vim](VIM.svg)]
+[![Visual Studio Code](VISUAL STUDIO CODE.svg)]
 
 ----
 
