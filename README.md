@@ -10,6 +10,8 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donearm&layout=compact&langs_count=10)](https://github.com/donearm)
 
+[![Top Langs](https://vercel.com/donearm/goodreads-readme/BqEaxVnfcHcWoAvWesTkeZaWTFEx&langs_count=10)](https://github.com/donearm)
+
 ![C](icons/C.svg)
 ![CSS3](icons/CSS3.svg)
 ![Go](icons/GO.svg)
