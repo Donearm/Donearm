@@ -72,11 +72,11 @@ _Travel/Food and general writing related articles_
 
 _Technical/personal articles_
 <!-- GF:START -->
+- [Bali](https://www.gianlucafiore.it/blog/bali/)
 - [On Pelé](https://www.gianlucafiore.it/blog/on_pele/)
 - [Cv](https://www.gianlucafiore.it/cv/)
 - [Most Meetings Are Useless](https://www.gianlucafiore.it/blog/most-meetings-are-useless/)
 - [HCA Florida](https://www.gianlucafiore.it/hca-florida/)
-- [Pulse 15 update after one year](https://www.gianlucafiore.it/blog/pulse-15-update-after-one-year/)
 <!-- GF:END -->
 
 ----
