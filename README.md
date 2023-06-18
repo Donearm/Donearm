@@ -63,11 +63,11 @@ _SVGs from [markdown-badges](https://ileriayo.github.io/markdown-badges/)_
 
 _Travel/Food and general writing related articles_
 <!-- FPC:START -->
+- [Linux plug-ins for servers, containers, and file monitoring](https://www.fountainpencreator.com/project/linux_plugins-checkmk/)
+- [Why SNMP monitoring for Linux is not recommended](https://www.fountainpencreator.com/project/why_snmp_monitoring_for_linux_is_not_recommended/)
+- [How To Configure SNMP on Linux](https://www.fountainpencreator.com/project/how_to_configure_snmp_on_linux/)
 - [Quali sono i vantaggi del giocare dal vivo invece che online](https://www.fountainpencreator.com/project/quali_sono_i_vantaggi_del_giocare_dal_vivo_invece_che_online/)
 - [Zettlr](https://www.fountainpencreator.com/project/archwiki_zettlr/)
-- [What Does a Technical Writer do?](https://www.fountainpencreator.com/post/what_does_a_technical_writer_do/)
-- [Tuxedo Pulse 15](https://www.fountainpencreator.com/project/archwiki_tuxedo_pulse_15/)
-- [How to Describe Coffee](https://www.fountainpencreator.com/post/how_to_describe_coffee/)
 <!-- FPC:END -->
 
 _Technical/personal articles_
