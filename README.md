@@ -37,6 +37,7 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 ![Canva](icons/CANVA.svg)
 ![Confluence](icons/CONFLUENCE.svg)
 ![Emacs](icons/EMACS.svg)
+![Figma](icons/FIGMA.svg)
 ![Gimp](icons/GIMP.svg)
 ![Hugo](icons/HUGO.svg)
 ![Jinja](icons/JINJA.svg)
