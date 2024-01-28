@@ -62,7 +62,7 @@ _SVGs from [markdown-badges](https://ileriayo.github.io/markdown-badges/)_
 
 ### Latest blog posts
 
-_Travel/Food and general writing related articles_
+_Technical articles + travel/food-related pieces_
 <!-- FPC:START -->
 - [Linux plug-ins for servers, containers, and file monitoring](https://www.fountainpencreator.com/project/linux_plugins-checkmk/)
 - [Why SNMP monitoring for Linux is not recommended](https://www.fountainpencreator.com/project/why_snmp_monitoring_for_linux_is_not_recommended/)
@@ -71,7 +71,7 @@ _Travel/Food and general writing related articles_
 - [Zettlr](https://www.fountainpencreator.com/project/archwiki_zettlr/)
 <!-- FPC:END -->
 
-_Technical/personal articles_
+_Personal articles and projects_
 <!-- GF:START -->
 - [Flying is terrible](https://www.gianlucafiore.it/blog/flying_is_terrible/)
 - [Bali](https://www.gianlucafiore.it/blog/bali/)
