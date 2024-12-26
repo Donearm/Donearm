@@ -86,7 +86,7 @@ _Personal articles and projects_
 
 Usually you can find me with my nose in a book (or, more recently, in my e-book reader). I read whenever possible, with a strong passion being fantasy literature (how original for a programmer eh?), history, philosophy, mythology, languages and the classics (from Gilgamesh to Infinite Jest). The final objective as a reader is reaching at least 1000 read books before I die (I am keeping track on [Goodreads](https://www.goodreads.com/review/list/25653929-gianluca-fiore?ref=nav_mybooks), if you're curious). I am not a fast reader but positive to keep 30-40 books per year till I die.
 
-Outside of reading, I write for myself (travelling and coffee being two big passions) and for clients, I watch football, occasionally movies, and update [my knowledge wiki](https://www.gianlucafiore.it/Personal-Wiki/).
+Outside of reading, I write for myself (travelling and coffee being two big passions) and for clients, I watch football, occasionally movies, and update [my knowledge wiki](https://www.gianlucafiore.it/Scientia/).
 
 If you like what I do, you can support me with a [donation](https://ko-fi.com/W7W7KA0Z).
 
