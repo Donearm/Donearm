@@ -64,11 +64,11 @@ _SVGs from [markdown-badges](https://ileriayo.github.io/markdown-badges/)_
 
 _Technical articles + travel/food-related pieces_
 <!-- FPC:START -->
+- [Build a Network Layer Visualization with Checkmk](https://www.fountainpencreator.com/project/build_a_network_layer_visualization_with_checkmk/)
+- [Consolidating IT tools](https://www.fountainpencreator.com/project/consolidating_it_tools/)
+- [What is a network protocol](https://www.fountainpencreator.com/project/what_is_a_network_protocol/)
 - [Linux plug-ins for servers, containers, and file monitoring](https://www.fountainpencreator.com/project/linux_plugins-checkmk/)
 - [Why SNMP monitoring for Linux is not recommended](https://www.fountainpencreator.com/project/why_snmp_monitoring_for_linux_is_not_recommended/)
-- [How To Configure SNMP on Linux](https://www.fountainpencreator.com/project/how_to_configure_snmp_on_linux/)
-- [Quali sono i vantaggi del giocare dal vivo invece che online](https://www.fountainpencreator.com/project/quali_sono_i_vantaggi_del_giocare_dal_vivo_invece_che_online/)
-- [Zettlr](https://www.fountainpencreator.com/project/archwiki_zettlr/)
 <!-- FPC:END -->
 
 _Personal articles and projects_
