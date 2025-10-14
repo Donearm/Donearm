@@ -60,28 +60,6 @@ _SVGs from [markdown-badges](https://ileriayo.github.io/markdown-badges/)_
 
 ----
 
-### Latest blog posts
-
-_Technical articles + travel/food-related pieces_
-<!-- FPC:START -->
-- [Linux plug-ins for servers, containers, and file monitoring](https://www.fountainpencreator.com/project/linux_plugins-checkmk/)
-- [Why SNMP monitoring for Linux is not recommended](https://www.fountainpencreator.com/project/why_snmp_monitoring_for_linux_is_not_recommended/)
-- [How To Configure SNMP on Linux](https://www.fountainpencreator.com/project/how_to_configure_snmp_on_linux/)
-- [Quali sono i vantaggi del giocare dal vivo invece che online](https://www.fountainpencreator.com/project/quali_sono_i_vantaggi_del_giocare_dal_vivo_invece_che_online/)
-- [Zettlr](https://www.fountainpencreator.com/project/archwiki_zettlr/)
-<!-- FPC:END -->
-
-_Personal articles and projects_
-<!-- GF:START -->
-- [Flying is terrible](https://www.gianlucafiore.it/blog/flying_is_terrible/)
-- [Bali](https://www.gianlucafiore.it/blog/bali/)
-- [On Pelé](https://www.gianlucafiore.it/blog/on_pele/)
-- [Most Meetings Are Useless](https://www.gianlucafiore.it/blog/most-meetings-are-useless/)
-- [HCA Florida](https://www.gianlucafiore.it/hca-florida/)
-<!-- GF:END -->
-
-----
-
 ### What I do in my spare time
 
 Usually you can find me with my nose in a book (or, more recently, in my e-book reader). I read whenever possible, with a strong passion being fantasy literature (how original for a programmer eh?), history, philosophy, mythology, languages and the classics (from Gilgamesh to Infinite Jest). The final objective as a reader is reaching at least 1000 read books before I die (I am keeping track on [Goodreads](https://www.goodreads.com/review/list/25653929-gianluca-fiore?ref=nav_mybooks), if you're curious). I am not a fast reader but positive to keep 30-40 books per year till I die.
