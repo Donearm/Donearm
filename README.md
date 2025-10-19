@@ -42,6 +42,7 @@ I am a **Python/Go** programmer, **Linux** administrator and FOSS enthusiast, **
 ![Hugo](icons/HUGO.svg)
 ![Jinja](icons/JINJA.svg)
 ![Jira](icons/JIRA.svg)
+![Obsidian](icons/OBSIDIAN.svg)
 ![Trello](icons/TRELLO.svg)
 ![Vim](icons/VIM.svg)
 ![Visual Studio Code](icons/VISUALSTUDIOCODE.svg)
